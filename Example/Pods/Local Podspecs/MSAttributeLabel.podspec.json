@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of MSAttributeLabel.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/huizhou.wang/MSAttributeLabel",
+  "homepage": "https://github.com/7General",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "huizhou.wang": "hhh.@163.com"
   },
   "source": {
-    "git": "https://github.com/huizhou.wang/MSAttributeLabel.git",
+    "git": "https://github.com/7General/MSAttributeLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {

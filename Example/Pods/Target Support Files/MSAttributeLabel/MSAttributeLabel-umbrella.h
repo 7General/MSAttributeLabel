@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "MSAttributedLabel.h"
+#import "MSAttributedLabelLink.h"
 
 FOUNDATION_EXPORT double MSAttributeLabelVersionNumber;
 FOUNDATION_EXPORT const unsigned char MSAttributeLabelVersionString[];
