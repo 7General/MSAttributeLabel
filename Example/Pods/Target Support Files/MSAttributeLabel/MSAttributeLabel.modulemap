@@ -1,0 +1,6 @@
+framework module MSAttributeLabel {
+  umbrella header "MSAttributeLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

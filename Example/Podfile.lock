@@ -1,0 +1,16 @@
+PODS:
+  - MSAttributeLabel (0.1.0)
+
+DEPENDENCIES:
+  - MSAttributeLabel (from `../`)
+
+EXTERNAL SOURCES:
+  MSAttributeLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSAttributeLabel: 7a2de1b46f31a1289ea8a9b738eb8492355e6117
+
+PODFILE CHECKSUM: d88e24ddb01902b25b2fa1815daec857c2e41442
+
+COCOAPODS: 1.13.0

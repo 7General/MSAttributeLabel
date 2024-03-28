@@ -1,0 +1,6 @@
+framework module Pods_MSAttributeLabel_Example {
+  umbrella header "Pods-MSAttributeLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
